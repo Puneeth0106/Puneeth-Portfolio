@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1774484923691,
+  "timestamp": 1775041595467,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -89,6 +89,8 @@
         "/assets/images/gallery/gallery-4.webp",
         "/assets/images/gallery/gallery-5.webp",
         "/assets/images/gallery/gallery-6.webp",
+        "/assets/images/headshot.png",
+        "/assets/images/image.png",
         "/assets/images/monkey.webp",
         "/assets/images/moon-dark.svg",
         "/assets/images/moon.svg",
@@ -179,7 +181,7 @@
     "/assets/images/Profile-pic-384x384.png": "04c07f1fe1197fec58129c2dff21097975eddd8b",
     "/assets/images/Profile-pic-512x512.png": "9411de13b58fa3d913fe96231ca6ed9fba195085",
     "/assets/images/Profile-pic-512x5121.png": "d89ca41cc239d67ab497466b8d2bd972bd757327",
-    "/assets/images/Profile-pic.webp": "b4962dfea3e0491a98e71092392a72bab8009029",
+    "/assets/images/Profile-pic.webp": "b9f29c3bee39b2aea7771243778a6ac12cd55658",
     "/assets/images/about-bg.svg": "c7f141b68db3ff98e611d6b63b600459b59e2c2d",
     "/assets/images/achievement/DataScience.webp": "d17f698e61b409b529a209fcf6620a9b415dbd7e",
     "/assets/images/achievement/Databricks-Data-Engineer.webp": "9f5d5c5d2963beac9e05ce20fbff00e7a585dd4a",
@@ -204,6 +206,8 @@
     "/assets/images/gallery/gallery-4.webp": "b176d34710b33b3afc95f931fd99f1a5694f04c3",
     "/assets/images/gallery/gallery-5.webp": "66f0c929c735a5392c7ac618ceaf9b48ae780e4c",
     "/assets/images/gallery/gallery-6.webp": "8940c118c0c2b6758dd99318ad3284c951ef411e",
+    "/assets/images/headshot.png": "1cf75db75bc63daae0b4fd071847145182e38059",
+    "/assets/images/image.png": "f46f3bfa137cea3913978ff1453ab1b360f0bd62",
     "/assets/images/monkey.webp": "e0a6e05d58f28945c04b9ebf4882142bba3b6101",
     "/assets/images/moon-dark.svg": "c1f86517408bc874dcde9afe3c762c823cb78623",
     "/assets/images/moon.svg": "089b276bc50442333ed0cdeb8c9a7adbc1fc1588",
