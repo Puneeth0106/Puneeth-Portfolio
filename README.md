@@ -2,7 +2,7 @@
 
 Live at **[puneethamudala.com](https://puneethamudala.com)**
 
-A personal portfolio built with Angular, showcasing my work as an AI/ML & Cloud Data Engineer.
+A personal portfolio built with Angular, showcasing my work as a Generative AI Engineer.
 
 ## Sections
 
@@ -47,6 +47,6 @@ Edit that file to update any section — no component changes needed.
 
 ## Contact
 
-- Email: puneethkumaramudala7@gmail.com
-- LinkedIn: [puneeth-kumar-amudala](https://www.linkedin.com/in/puneeth-kumar-amudala-4bb7a4245)
+- Email: puneethkumaramudala@gmail.com
+- LinkedIn: [puneeth-amudala](https://www.linkedin.com/in/puneeth-amudala)
 - GitHub: [Puneeth0106](https://github.com/Puneeth0106)
