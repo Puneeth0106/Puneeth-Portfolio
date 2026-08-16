@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1785780340561,
+  "timestamp": 1786844668928,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,13 +12,13 @@
       },
       "urls": [
         "/872.594a39d02c918e04.js",
-        "/933.6e77edac7506ef04.js",
+        "/933.1b614c329b219805.js",
         "/favicon.ico",
         "/index.html",
         "/main.4dc39c7314b3f838.js",
         "/polyfills.d7021097ebb223b7.js",
-        "/runtime.9119529faf3b3be3.js",
-        "/scripts.215a2e85f252421f.js",
+        "/runtime.0df58e37b1126590.js",
+        "/scripts.47be129ce38d2433.js",
         "/styles.030c8fb3114f8bf3.css"
       ],
       "patterns": []
@@ -66,9 +66,9 @@
         "/assets/images/Profile-pic-512x5121.png",
         "/assets/images/Profile-pic.webp",
         "/assets/images/about-bg.svg",
+        "/assets/images/achievement/Azure-AI-Engineer.webp",
         "/assets/images/achievement/DataScience.webp",
         "/assets/images/achievement/Databricks-Data-Engineer.webp",
-        "/assets/images/achievement/Finalist.webp",
         "/assets/images/achievement/HackerRank2.webp",
         "/assets/images/achievement/Hacktoberfest.webp",
         "/assets/images/achievement/Microsoft-Fabric-Analytics.webp",
@@ -149,12 +149,12 @@
   "hashTable": {
     "/404.4ed6dad8c73a710d.webp": "c55234174be110511c6fdf693770c8dde7f046c1",
     "/872.594a39d02c918e04.js": "a0afc20e44c5e6395939f6e66aa7fb05433f6f0a",
-    "/933.6e77edac7506ef04.js": "60241b18966cbae2fbb16ff27000d69ac41f3d47",
+    "/933.1b614c329b219805.js": "1fc89b00fbae25ef40ed67ab9daaa802dd6351fa",
     "/about-bg.7fefebf460bdfab3.svg": "c7f141b68db3ff98e611d6b63b600459b59e2c2d",
     "/apple-touch-icon.png": "6452d774e87f64929fa6696994871d56e03dbfeb",
     "/assets/css/animate.min.css": "4ce4e9a3c083a51cc474b62f755108b9c81e5881",
     "/assets/css/font-awesome.min.css": "e4974ed6cb0a55f0f83d47e3fafc4a5b2717779d",
-    "/assets/data.min.js": "22cd59a6a655fcfa6989a59d56be094cbfaee309",
+    "/assets/data.min.js": "acec30d390d614a43e50f2a50bfacaad7765c857",
     "/assets/fonts/BlackOpsOne.eot": "a922adecfeba3ea43f4e644183728cdd1692dbb4",
     "/assets/fonts/BlackOpsOne.svg": "7c13e5df4822e44cfe78f1291757ef7fc4af6d8a",
     "/assets/fonts/BlackOpsOne.ttf": "024e07e45eefb57d4e55fffc082711c2d653e941",
@@ -184,9 +184,9 @@
     "/assets/images/Profile-pic-512x5121.png": "d89ca41cc239d67ab497466b8d2bd972bd757327",
     "/assets/images/Profile-pic.webp": "b9f29c3bee39b2aea7771243778a6ac12cd55658",
     "/assets/images/about-bg.svg": "c7f141b68db3ff98e611d6b63b600459b59e2c2d",
+    "/assets/images/achievement/Azure-AI-Engineer.webp": "a370fc50b9729aa250b53c7c9a9ec97fe9bcbbc4",
     "/assets/images/achievement/DataScience.webp": "d17f698e61b409b529a209fcf6620a9b415dbd7e",
     "/assets/images/achievement/Databricks-Data-Engineer.webp": "9f5d5c5d2963beac9e05ce20fbff00e7a585dd4a",
-    "/assets/images/achievement/Finalist.webp": "f669741165acc829857c347a1b64e342f547011c",
     "/assets/images/achievement/HackerRank2.webp": "0d4df017c764d5e16a7e847e43bd21af8f061c26",
     "/assets/images/achievement/Hacktoberfest.webp": "1dc3b04d84f75f5620f84b0f97ca1c913f1d36ee",
     "/assets/images/achievement/Microsoft-Fabric-Analytics.webp": "7b4d5ff1456927ceed83ae57a3aedbb90f3e0962",
@@ -259,12 +259,12 @@
     "/favicon-16x16.png": "70a3572df96b2c555a8489e30ce6864ec434ccc9",
     "/favicon-32x32.png": "bb6aec209d0c6c5c398b3761a10cbea1b3326a6a",
     "/favicon.ico": "380cb360a9efacd902b5d11f35aba2580484d7ca",
-    "/index.html": "ea508605c8bfbdecae40857ba9f66af3df7d7134",
+    "/index.html": "3af4553a8db4401f71500a01a6aba6975b266412",
     "/main.4dc39c7314b3f838.js": "5314388c6cf764afca2a8ed538c1caa717ac8509",
     "/polyfills.d7021097ebb223b7.js": "d5270f500332907f59403a0ddd3a983b25841eb3",
     "/quote-img.5e642c8eee792695.webp": "27936458251d3dbc6d1eecfc1e501ab93a3838bb",
-    "/runtime.9119529faf3b3be3.js": "fffab408a34017aa4824f9dbd4d3a1f36ea619c4",
-    "/scripts.215a2e85f252421f.js": "96d4e170447cbaff9adf4cefec7cb7f9ae0b34b7",
+    "/runtime.0df58e37b1126590.js": "52e935f509d9e2bd1356da63de7afbc27f04cd17",
+    "/scripts.47be129ce38d2433.js": "4e9887e90b3095c43212990765f9cf8162d47eb2",
     "/styles.030c8fb3114f8bf3.css": "f422b4a26ace840949db1bad6a1fc45af588cc60"
   },
   "navigationUrls": [
